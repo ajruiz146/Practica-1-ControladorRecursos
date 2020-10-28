@@ -1,2 +1,2 @@
 # Practica-1-ControladorRecursos
-Creation of a Frontend and Backend page using Laravel Framework
+Creation of a Frontend and Backend pages using Laravel Framework
